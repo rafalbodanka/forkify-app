@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "img": "^3.0.3",
+    "parcel": "^2.9.3",
+    "sass": "^1.61.0"
+  },
+  "name": "starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.3",
+    "parcel": "^2.9.3"
+  },
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
